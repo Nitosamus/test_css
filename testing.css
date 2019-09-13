@@ -1,0 +1,118 @@
+.container{
+	background-color: rgba(7, 7, 6, 0.76);
+	width: 90%;
+	height: 200px;
+	text-decoration: none;
+	margin: 100px auto;
+	padding: 100px 50px;
+	
+}
+#ul{
+	background-color: lightskyblue;
+	text-align: center;
+	border-top: 5px inset royalblue;
+	margin: 50px 50px;
+	box-shadow: 12px 5px 12px rgba(5, 8, 8, 0.678) inset; 
+	
+	
+}
+.list{
+	display: inline-block;
+	text-align: center;
+	margin: 100px 100px 50px 50px;
+}
+.menu{
+	
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: overline;
+	line-height: 200px;
+	letter-spacing: 5px;
+	word-spacing: 20px;
+	padding: 50px 30px 80px 30px;
+	background-color: rgba(37, 8, 83, 0.753)
+	
+	
+
+}
+#men1{
+	text-align: center;
+	text-decoration: overline;
+	text-indent: -200px;
+	text-shadow: 10px 5px 12px rgb(26, 16, 16);
+	line-height: 100px;
+
+}
+#men2{
+	text-align: inherit;
+	text-decoration:overline;
+	text-indent: initial;
+	text-shadow: -25px 12px 15px rgb(49, 155, 7);
+	background-color: rgba(204, 90, 9, 0.555);
+	width: 80%;
+	padding: 20px;
+	border-top-width: 40px;
+	border-top-style: ridge;
+	margin: 10px auto;
+	border-color: rgba(58, 58, 18, 0.644);
+	box-shadow: 12px -5px 15px rgba(0, 0, 0, 0.616);
+
+	
+}
+#lien{
+	text-decoration: none;
+}
+#men3{
+	text-indent: 50px;
+	text-shadow: 0px 0px 15px rgb(105, 3, 20);
+	background-color: #5ffd;
+	width: 80%;
+	padding: 50px;
+	border: 30px solid rgba(52, 124, 19, 0.2); 
+	margin: 50px auto;
+	border-top-right-radius: 22px;
+	border-bottom-left-radius: 22px;
+	box-shadow: 12px -5px 15px rgba(0, 0, 0, 0.616);
+
+}
+
+#p1{
+	display: inline-block;
+	border: 5px solid rgba(58, 17, 17, 0.699);
+	width: 40%;
+	padding: 200px 80px;
+}
+#p2{
+	display: inline-block;
+	border: 5px solid rgba(58, 17, 17, 0.699);
+	width: 30%;
+	padding:100px 50px;
+	background-color: coral;
+	text-align: center;
+
+}
+#p3{
+	display: inline-block;
+	width: 30%;
+	border: 5px solid rgba(58, 17, 17, 0.699);
+	text-align: center;
+	padding: 100px 50px 100px 50px;
+
+}
+body{
+	background-color: rgba(6, 23, 78, 0.767)
+}
+
+.footer{
+	text-align: center;
+	border-top: 1px solid white;
+	background-color: rgba(0, 0, 0, 0.678);
+	width: 80%;
+	margin: 10px auto;
+	padding: 100px 100px;
+	position: relative;
+	bottom: 0px;
+	left:20px;
+
+
+}
